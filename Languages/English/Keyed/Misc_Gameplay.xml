@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--==================== Settings ====================-->
+
+    <CB_ModName>Color Blindness</CB_ModName>
+
+    <CB_EnableColorBlindMode>Use color-blind modes?</CB_EnableColorBlindMode>
+    <CB_EnableColorBlindModeDesc>Click to enable the use of various color-blind modes.\n\nIf left unchecked, color blind modes will not work, even if one is enabled.</CB_EnableColorBlindModeDesc>
+
+    <CB_SettingProtanopia>Protanopia</CB_SettingProtanopia>
+    <CB_SettingProtanomaly>Protanomaly</CB_SettingProtanomaly>
+    <CB_SettingDeuteranopia>Deuteranopia</CB_SettingDeuteranopia>
+    <CB_SettingDeuteranomaly>Deuteranomaly</CB_SettingDeuteranomaly>
+    <CB_SettingTritanopia>Tritanopia</CB_SettingTritanopia>
+    <CB_SettingTritanomaly>Tritanomaly</CB_SettingTritanomaly>
+    <CB_SettingAchromatopsia>Achromatopsia</CB_SettingAchromatopsia>
+    <CB_SettingAchromatomaly>Achromatomaly</CB_SettingAchromatomaly>
+
+</LanguageData>

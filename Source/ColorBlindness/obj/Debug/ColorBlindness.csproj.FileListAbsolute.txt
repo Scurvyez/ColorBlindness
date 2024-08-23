@@ -1,0 +1,4 @@
+S:\Games\Steam\steamapps\common\RimWorld\Mods\ColorBlindness\1.5\Assemblies\ColorBlindness.dll
+S:\Games\Steam\steamapps\common\RimWorld\Mods\ColorBlindness\Source\ColorBlindness\obj\Debug\ColorBlindness.csproj.AssemblyReference.cache
+S:\Games\Steam\steamapps\common\RimWorld\Mods\ColorBlindness\Source\ColorBlindness\obj\Debug\ColorBlindness.csproj.CoreCompileInputs.cache
+S:\Games\Steam\steamapps\common\RimWorld\Mods\ColorBlindness\Source\ColorBlindness\obj\Debug\ColorBlindness.dll

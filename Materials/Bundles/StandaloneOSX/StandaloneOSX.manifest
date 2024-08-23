@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4095578591
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pixelwizardrybundle
+      Dependencies: {}
+    Info_1:
+      Name: colorblindnessbundle
+      Dependencies: {}
