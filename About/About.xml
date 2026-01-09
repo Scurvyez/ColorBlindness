@@ -6,6 +6,7 @@
     <packageId>Scurvyez.ColorBlindness</packageId>
     <supportedVersions>
         <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
 
     <description>
@@ -22,4 +23,5 @@ This mod adds a post-processing shader which applies color correction to the ent
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
 		</li>
     </modDependencies>
+
 </ModMetaData>
