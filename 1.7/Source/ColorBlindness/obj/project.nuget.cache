@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzUvwI5pAuQ=",
+  "success": true,
+  "projectFilePath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\ColorBlindness\\1.7\\Source\\ColorBlindness\\ColorBlindness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steven\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
